@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "user": "Shanks",
+    "subtitle": "Sugestões para você",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPpApJZJ0T3pvviMrrjRH8TbQ3iab1J4oDN1eSoJvjqukcYtXqT6lOxl4&s=10"
+  },
+  {
+    "id": 2,
+    "user": "Portgas D. Ace",
+    "subtitle": "Seguido por Luffy",
+    "avatar": "https://i.pinimg.com/236x/e5/8e/fd/e58efd21578fcca2eb6dc856babc2512.jpg"
+  },
+  {
+    "id": 3,
+    "user": "Tony Chopper",
+    "subtitle": "Novo no Den Den Feed",
+    "avatar": "https://avatarfiles.alphacoders.com/376/thumb-1920-376047.png"
+  }
+]

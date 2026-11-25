@@ -1,32 +1,52 @@
 [
   {
     "id": 1,
-    "user": "ana.dev",
-    "location": "São Paulo, Brasil",
-    "avatar": "/images/avatars/ana.jpg",
-    "image": "/images/posts/post-1.jpg",
-    "alt": "Mesa de trabalho com notebook e café",
-    "likes": 128,
-    "caption": "Construindo uma interface por vez. ✨"
+    "user": "chapeuDPalha",
+    "location": "Alabasta, Grand Line",
+    "avatar": "https://i.pinimg.com/736x/0d/98/b2/0d98b2916254548f2c79a57eb8768969.jpg",
+    "image": "https://i.redd.it/jwfhdlslda2e1.gif",
+    "alt": "Eu comendo um Prato gigante de carne e Bolinho de Arroz",
+    "likes": 1024,
+    "caption": "Acabei de comer 50 pedaços de carne! Alguém viu o cozinheiro? Estou com fome de novo! 🍖 #CrocodileTáComNada",
+    "comments": [
+      {
+        "id": 1,
+        "user": "Zororepolho",
+        "text": "Você não comeu nem a metade do que eu bebo!"
+      },
+      {
+        "id": 2,
+        "user": "Sanji.perna",
+        "text": "Vou ter que pescar mais peixes no mar..."
+      }
+    ]
   },
   {
     "id": 2,
-    "user": "viajante",
-    "location": "Rio de Janeiro, Brasil",
-    "avatar": "/images/avatars/viajante.jpg",
-    "image": "/images/posts/post-2.jpg",
-    "alt": "Paisagem de uma praia ao entardecer",
-    "likes": 342,
-    "caption": "Fim de tarde com vista para o mar."
+    "user": "Zororepolho",
+    "location": "Wano, Grand Line",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqC_qh3j63aY7_mA5MS9EoiaN9D2Izh4jr3iQginIA_qKfqoT89fdDhg&s=10",
+    "image": "https://i.pinimg.com/736x/9a/e5/65/9ae565db9a3f6fd420bfd725d11b4995.jpg",
+    "alt": "Fazendo um santoryu com uma foice vs Killer em wano.",
+    "likes": 856,
+    "caption": "Santouryu com uma Foice, Killer estava feliz demais, mas quem rí por ultimo, rí melhor. #Santouryu #Treinamento #ZoroSola",
+    "comments": [
+      {
+        "id": 3,
+        "user": "nami_navegante",
+        "text": "foi facil essa luta pra você, Zoro!"
+      }
+    ]
   },
   {
     "id": 3,
-    "user": "cafecomcodigo",
-    "location": "Curitiba, Brasil",
-    "avatar": "/images/avatars/cafe.jpg",
-    "image": "/images/posts/post-3.jpg",
-    "alt": "Xícara de café ao lado de um teclado",
-    "likes": 87,
-    "caption": "Qual é a sua trilha sonora para programar?"
+    "user": "Sanji.perna",
+    "location": "Baratie",
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sanji",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqR4bmqHmypzcxMfKJCLB6CYYXgJfT2X69kH3GGXm1JeklEMzC0c3jnOj4&s=10",
+    "alt": "Sanji ao Lado de Zeff, seu mentor e referencia.",
+    "likes": 2030,
+    "caption": "Acho que essa é uma das nossas poucas fotos, Grande Zeff, me ensinou sobre ser homem, obrigado pelos ensinamentos, Chef 🍜 #Saudades",
+    "comments": []
   }
 ]

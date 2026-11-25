@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "user": "Luffy",
+    "avatar": "https://i.pinimg.com/736x/0d/98/b2/0d98b2916254548f2c79a57eb8768969.jpg"
+  },
+  {
+    "id": 2,
+    "user": "Zoro",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqC_qh3j63aY7_mA5MS9EoiaN9D2Izh4jr3iQginIA_qKfqoT89fdDhg&s=10"
+  },
+  {
+    "id": 3,
+    "user": "Sanji",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqR4bmqHmypzcxMfKJCLB6CYYXgJfT2X69kH3GGXm1JeklEMzC0c3jnOj4&s=10"
+  },
+  {
+    "id": 4,
+    "user": "Nami",
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nami"
+  }
+]

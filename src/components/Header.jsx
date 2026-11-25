@@ -1,11 +1,14 @@
-import { FiHeart, FiHome, FiPlusSquare, FiSearch } from 'react-icons/fi'
+import { FiHeart, FiHome, FiPlusSquare, FiSearch, FiUser } from 'react-icons/fi'
 
-function Header() {
+function Header({ onProfileClick, onHomeClick }) {
   return (
     <header className="header">
-      <span className="header__logo">Instagram</span>
+      <span className="header__logo" onClick={onHomeClick} style={{ cursor: 'pointer' }}>
+        Instapiece
+      </span>
+      
       <nav className="header__actions" aria-label="Navegação principal">
-        <button className="icon-button" type="button" aria-label="Início">
+        <button className="icon-button" type="button" aria-label="Início" onClick={onHomeClick}>
           <FiHome />
         </button>
         <button className="icon-button" type="button" aria-label="Pesquisar">
@@ -17,9 +20,12 @@ function Header() {
         <button className="icon-button" type="button" aria-label="Atividades">
           <FiHeart />
         </button>
+        <button className="icon-button" type="button" aria-label="Perfil" onClick={onProfileClick}>
+          <FiUser />
+        </button>
       </nav>
     </header>
   )
 }
 
-export default Header
+export default Header;
